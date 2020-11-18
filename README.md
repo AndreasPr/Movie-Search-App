@@ -15,6 +15,7 @@ The project implements a movie search application using ReactJS and fetches the 
 * SPA
 * Fetch API - Async/Await
 * Functional Components
+* OMDb API
 
 ## Project Status
 The project is still being developed.
