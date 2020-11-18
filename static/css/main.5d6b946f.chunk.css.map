@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACI,QAAS,CACT,SAAU,CACV,yCACJ","file":"main.5d6b946f.chunk.css","sourcesContent":["*{\r\n    margin: 0;\r\n    padding: 0;\r\n    font-family: \"Times New Roman\", Times, serif;\r\n}"]}
