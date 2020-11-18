@@ -12,7 +12,7 @@ const SearchMovies = () => {
     const searchMovies = async(event) => {
         event.preventDefault();
         setSearching(true);
-        const url = `http://www.omdbapi.com/?&apikey=2a3b032c&s=${query}&type="movie"`;
+        const url = `https://www.omdbapi.com/?&apikey=2a3b032c&s=${query}&type="movie"`;
         try{
             const response = await fetch(url);
             const data = await response.json();
