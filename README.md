@@ -13,7 +13,7 @@ The project implements a movie search application using ReactJS and fetches the 
 ## Technologies
 * ReactJS
 * React Hooks
-* SPA
+* SPA (Single Page Application)
 * Fetch API - Async/Await
 * Functional Components
 * OMDb API
